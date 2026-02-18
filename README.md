@@ -91,7 +91,7 @@ Used for machine‑learning readiness
 📄 Output Location:
 
 ```
-profiling_reports/pandas_profiling_report.pdf
+
 ```
 
 ---
@@ -111,25 +111,16 @@ profiling_reports/pandas_profiling_report.pdf
 
 ---
 
-## 📦 Installation (VS Code Terminal)
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn scipy requests ydata-profiling
-```
-
----
-
-
----
-
 ## 📥 Download Full Project
 
 📦 **Click below to download complete project folder:**
 
 ```
-(https://github.com/tushar123851/Holistic-Data-Preparer/archive/refs/heads/main.zip)```
+(https://github.com/tushar123851/Holistic-Data-Preparer/archive/refs/heads/main.zip)
 
 ---
+
+
 ## 👤 Author
 
 **Tushar Vala**
