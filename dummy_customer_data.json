@@ -1,0 +1,47 @@
+[
+    {
+        "customer_id": 1,
+        "age": 25,
+        "gender": "Male",
+        "income": 45000,
+        "credit_score": 680,
+        "loan_amount": 120000,
+        "default": "No"
+    },
+    {
+        "customer_id": 2,
+        "age": 32,
+        "gender": "Female",
+        "income": 62000,
+        "credit_score": 720,
+        "loan_amount": 200000,
+        "default": "No"
+    },
+    {
+        "customer_id": 3,
+        "age": 45,
+        "gender": "Male",
+        "income": 38000,
+        "credit_score": 590,
+        "loan_amount": 90000,
+        "default": "Yes"
+    },
+    {
+        "customer_id": 4,
+        "age": 29,
+        "gender": "Female",
+        "income": 51000,
+        "credit_score": 705,
+        "loan_amount": 150000,
+        "default": "No"
+    },
+    {
+        "customer_id": 5,
+        "age": 41,
+        "gender": "Male",
+        "income": 47000,
+        "credit_score": 610,
+        "loan_amount": 110000,
+        "default": "Yes"
+    }
+]

@@ -1,0 +1,49 @@
+FINAL DATA PREPROCESSING & FEATURE ENGINEERING REPORT
+
+1. Missing Value Strategies
+- Numerical features were handled using Mean, Median, KNN Imputer, and finally MICE (Iterative Imputer).
+- Categorical features were imputed using Most Frequent (Mode) strategy.
+- Missing indicator columns were added to preserve missingness information.
+
+Effectiveness:
+All missing values were successfully handled without dropping records, ensuring data completeness.
+
+2. Outlier Handling
+- Z-score method used to detect extreme outliers.
+- IQR method applied to all numerical columns.
+- Percentile capping and Winsorization used to reduce the influence of extreme values.
+
+Result:
+Outliers were controlled while preserving data distribution.
+
+3. Encoding Methods
+- Ordinal Encoding for education level.
+- Label Encoding for binary features.
+- One-Hot Encoding (sklearn) for region and loan purpose.
+
+4. Feature Scaling & Transformations
+- Standardization (Z-score scaling)
+- Min-Max Scaling
+- MaxAbs Scaling
+- Robust Scaling
+- PowerTransformer (Yeo-Johnson)
+- FunctionTransformer (log, square root)
+
+Reason:
+Improved model stability and convergence.
+
+5. Feature Engineering
+- Debt-to-Income Ratio
+- Average Monthly Transactions
+- Spending-to-Income Ratio
+
+These features add financial interpretability and predictive strength.
+
+6. Final Dataset Readiness
+- No missing values
+- Outliers treated
+- Fully numeric
+- Scaled and encoded
+- Ready for Machine Learning models
+
+Final dataset is suitable for classification and regression tasks.
