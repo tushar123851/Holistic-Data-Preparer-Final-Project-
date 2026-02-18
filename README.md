@@ -88,14 +88,15 @@ Used for machine‑learning readiness
 * Generated using **pandas‑profiling / ydata‑profiling**
 * Exported as **PDF report**
 
+---
+
 ## 📊 Data Profiling Report
 
 📄 **Download Profiling PDF**  
-[Click here to download](https://raw.githubusercontent.com/tushar123851/Holistic-Data-Preparer-Final-Project-/main/profiling_report/profiling_report.pdf)
+    [Click here to download](https://raw.githubusercontent.com/tushar123851/Holistic-Data-Preparer-Final-Project-/main/profiling_report/profiling_report.pdf)
 
 ```
 
----
 
 ## 🛠️ Tech Stack
 
