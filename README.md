@@ -91,6 +91,8 @@ Used for machine‑learning readiness
 📄 Output Location:
 
 ```
+📄 **Download Profiling PDF**  
+[Click here](profiling_report/holistic_data_profile.pdf)
 
 ```
 
