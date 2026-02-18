@@ -92,8 +92,7 @@ Used for machine‑learning readiness
 
 ```
 📄 **Download Profiling PDF**  
-[Click here](profiling_report/holistic_data_profile.pdf)
-
+[Click here][(https://github.com/tushar123851/Holistic-Data-Preparer-Final-Project-/blob/main/profiling_report/profiling_report.pdf)
 ```
 
 ---
