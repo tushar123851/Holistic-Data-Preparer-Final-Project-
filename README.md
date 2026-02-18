@@ -88,11 +88,11 @@ Used for machine‑learning readiness
 * Generated using **pandas‑profiling / ydata‑profiling**
 * Exported as **PDF report**
 
-📄 Output Location:
+## 📊 Data Profiling Report
 
-```
 📄 **Download Profiling PDF**  
-[Click here][(https://github.com/tushar123851/Holistic-Data-Preparer-Final-Project-/blob/main/profiling_report/profiling_report.pdf)
+[Click here to download](https://raw.githubusercontent.com/tushar123851/Holistic-Data-Preparer-Final-Project-/main/profiling_report/profiling_report.pdf)
+
 ```
 
 ---
