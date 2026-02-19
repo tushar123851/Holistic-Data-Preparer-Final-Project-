@@ -44,7 +44,7 @@ Bivariate analysis shows **relationships between two variables**.
 
 
 ### Income vs Loan Amount
-![Income vs Loan Amount](bivariate/income vs amount.png)
+![Income vs Loan Amount](bivariate/incomeamount.png)
 
 ---
 
