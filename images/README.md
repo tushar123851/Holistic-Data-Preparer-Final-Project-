@@ -9,11 +9,16 @@ This folder contains all **EDA and preprocessing visualizations** generated duri
 These plots show the data condition **before handling missing values**.
 
 ### Age (Before Filling)
-![Age Missing Before](before_filling/Screenshot 2026-02-19 104156.png)
+![Age Missing Before](before_filling/age_before_filling.png)
 
 ### Income (Before Filling)
 ![Income Missing Before](before_filling/income_missing_before.png)
 
+### Loan amount (Before Filling)
+![Loan amount Missing Before](before_filling/before_filling_loanamount.png)
+
+### creedit score (Before Filling)
+![creedit score Missing Before](before_filling/creditscore_before_filling.png)
 ---
 
 ## 2️⃣ Univariate Analysis
