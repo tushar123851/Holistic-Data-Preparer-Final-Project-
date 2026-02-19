@@ -9,7 +9,7 @@ This folder contains all **EDA and preprocessing visualizations** generated duri
 These plots show the data condition **before handling missing values**.
 
 ### Age (Before Filling)
-![Age Missing Before](before_filling/age_missing_before.png)
+![Age Missing Before](before_filling/Screenshot 2026-02-19 104156.png)
 
 ### Income (Before Filling)
 ![Income Missing Before](before_filling/income_missing_before.png)
