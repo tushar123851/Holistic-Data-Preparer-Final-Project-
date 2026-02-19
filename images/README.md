@@ -26,11 +26,16 @@ These plots show the data condition **before handling missing values**.
 Univariate analysis helps understand **individual feature distributions**.
 
 ### Age Distribution
-![Age Distribution](univariate/age_distribution.png)
+![Age Distribution](univariate/age_normal.png)
 
 ### Income Distribution
-![Income Distribution](univariate/income_distribution.png)
+![Income Distribution](univariate/annualincome_normal.png)
 
+### loan amount Distribution
+![loan amount Distribution](univariate/loanamount_normal.png)
+
+### credit score Distribution
+![credit score Distribution](univariate/creditscore.png)
 ---
 
 ## 3️⃣ Bivariate Analysis
