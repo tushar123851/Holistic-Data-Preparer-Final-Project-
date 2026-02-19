@@ -42,11 +42,9 @@ Univariate analysis helps understand **individual feature distributions**.
 
 Bivariate analysis shows **relationships between two variables**.
 
-### Age vs Income
-![Age vs Income](bivariate/age_vs_income.png)
 
 ### Income vs Loan Amount
-![Income vs Loan Amount](bivariate/income_vs_loan.png)
+![Income vs Loan Amount](bivariate/income vs amount.png)
 
 ---
 
